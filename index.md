@@ -41,7 +41,7 @@ Targeted User Group: Product Managers
 
 ---
 
-### Category Name 2
+### Projects in progress...
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
