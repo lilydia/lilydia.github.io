@@ -4,21 +4,40 @@
 
 ## Areas of Interest
 
-### [Machine Learning | University of Waterloo](/sample_page)
+### [Machine Learning | University of Waterloo](/pdf/project.pdf)
 <img src="images/stock_trend.PNG?raw=true"/>
-<br>
+<br><br>
 Targeted User Group: Students
 <br>
 *Increasing investors’ awareness about the stock market by predicting stock prices from historical data*
 <br>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+### [Artificial Intelligence | Microsoft](/pdf/winter2020_work_term_repot.pdf)
 <img src="images/conf-pic.jpg?raw=true"/>
+<br><br>
+Targeted User Group: Enterprises
+<br>
+*Exploring the importance of AI applications in modernizing traditional industries*
+<br>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### [Cloud Infrastructure | NVIDIA](/pdf/fall2019_work_term_repot_save.pdf)
+<img src="images/stock_trend.PNG?raw=true"/>
+<br><br>
+Targeted User Group: Software Developers
+<br>
+*Helping cloud developers track cluster health to better support software development process*
+<br>
+
+---
+### [Data Analytics | NVIDIA](/pdf/LydiaLi_summer2018.pptx)
+<img src="images/stock_trend.PNG?raw=true"/>
+<br><br>
+Targeted User Group: Product Managers
+<br>
+*Helping PMs track progress data to better support project development process*
+<br>
 
 ---
 
