@@ -1,16 +1,16 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Areas of Interest
+## Areas of Interest
 
-[Machine Learning | University of Waterloo](/sample_page)
+### [Machine Learning | University of Waterloo](/sample_page)
 <img src="images/stock_trend.PNG?raw=true"/>
-<br><br>
+<br>
 Targeted User Group: Students
-<br><br>
+<br>
 Increasing investors’ awareness about the stock market by predicting stock prices from historical data
-<br><br>
+<br>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
