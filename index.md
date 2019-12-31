@@ -2,14 +2,19 @@
 
 ---
 
-### Category Name 1 
+### Areas of Interest
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Machine Learning | University of Waterloo](/sample_page)
+<img src="images/stock_trend.png?raw=true"/>
+<br><br>
+Targeted User Group: Students
+<br><br>
+Increasing investors’ awareness about the stock market by predicting stock prices from historical data
+<br><br>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/conf-pic.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
