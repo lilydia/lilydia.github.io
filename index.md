@@ -5,7 +5,7 @@
 ## Areas of Interest
 
 ### [Machine Learning | University of Waterloo](/pdf/project.pdf)
-<img src="images/stock_trend.PNG?raw=true"/>
+<img src="images/ml_project.PNG?raw=true"/>
 <br><br>
 Targeted User Group: Students
 <br>
@@ -23,7 +23,7 @@ Targeted User Group: Enterprises
 
 ---
 ### [Cloud Infrastructure | NVIDIA](/pdf/fall2019_work_term_repot_save.pdf)
-<img src="images/stock_trend.PNG?raw=true"/>
+<img src="images/cloud_project.PNG?raw=true"/>
 <br><br>
 Targeted User Group: Software Developers
 <br>
@@ -32,7 +32,7 @@ Targeted User Group: Software Developers
 
 ---
 ### [Data Analytics | NVIDIA](/pdf/LydiaLi_summer2018.pptx)
-<img src="images/stock_trend.PNG?raw=true"/>
+<img src="images/data_project.PNG?raw=true"/>
 <br><br>
 Targeted User Group: Product Managers
 <br>
