@@ -1,4 +1,4 @@
-# Portfolio
+# Human-Centered Design Portfolio
 
 ---
 
@@ -9,7 +9,7 @@
 <br>
 Targeted User Group: Students
 <br>
-Increasing investors’ awareness about the stock market by predicting stock prices from historical data
+*Increasing investors’ awareness about the stock market by predicting stock prices from historical data*
 <br>
 
 ---
