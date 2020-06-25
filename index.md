@@ -10,7 +10,7 @@
 
 ---
 ### [Data Analytics | Nvidia Shield | Hardware R&D Team](/pdf/winter2020_work_term_repot.pdf)
-<img src="images/ml_project.jpg?raw=true"/>
+<img src="images/ml_project.PNG?raw=true"/>
 <br>
 
 ---
