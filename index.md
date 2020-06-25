@@ -4,7 +4,7 @@
 
 ## Areas of Interest
 
-### [Machine Learning | University of Waterloo](/pdf/project.pdf)
+### [Artificial Intelligence | Microsoft Azure AI | Product Business Group](/pdf/project.pdf)
 <img src="images/ml_project.PNG?raw=true"/>
 <br><br>
 Targeted User Group: Students
@@ -13,30 +13,18 @@ Targeted User Group: Students
 <br>
 
 ---
-### [Artificial Intelligence | Microsoft](/pdf/winter2020_work_term_repot.pdf)
+### [Data Analytics | Nvidia Shield | Hardware R&D Team](/pdf/winter2020_work_term_repot.pdf)
 <img src="images/conf-pic.jpg?raw=true"/>
-<br><br>
-Targeted User Group: Enterprises
-<br>
-*Exploring the importance of AI applications in modernizing traditional industries*
 <br>
 
 ---
 ### [Cloud Infrastructure | NVIDIA](/pdf/fall2019_work_term_repot_save.pdf)
 <img src="images/cloud_project.PNG?raw=true"/>
-<br><br>
-Targeted User Group: Software Developers
-<br>
-*Helping cloud developers track cluster health to better support software development process*
 <br>
 
 ---
-### [Data Analytics | NVIDIA](/pdf/LydiaLi_summer2018.pptx)
+### [Cloud Infrastructure | Nvidia Kubernetes | Software Development Team](/pdf/LydiaLi_summer2018.pptx)
 <img src="images/data_project.PNG?raw=true"/>
-<br><br>
-Targeted User Group: Product Managers
-<br>
-*Helping PMs track progress data to better support project development process*
 <br>
 
 ---
