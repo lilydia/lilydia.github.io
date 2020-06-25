@@ -4,7 +4,7 @@
 
 ## WORK
 
-### [Artificial Intelligence | Microsoft AI - Azure Business Group](/pdf/project.pdf)
+### [AI Community | Microsoft AI - Azure Business Group](/pdf/project.pdf)
 <img src="images/ml_project.PNG?raw=true"/>
 <br>
 
