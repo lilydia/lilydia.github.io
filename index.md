@@ -4,17 +4,17 @@
 
 ## WORK
 
-### [Artificial Intelligence | Microsoft AI | Azure Business Group](/pdf/project.pdf)
+### [Artificial Intelligence | Microsoft AI - Azure Business Group](/pdf/project.pdf)
 <img src="images/ml_project.PNG?raw=true"/>
 <br>
 
 ---
-### [Data Analytics | Nvidia Shield | Hardware R&D Team](/pdf/winter2020_work_term_repot.pdf)
+### [Data Analytics | Nvidia Shield - Hardware R&D Team](/pdf/winter2020_work_term_repot.pdf)
 <img src="images/ml_project.PNG?raw=true"/>
 <br>
 
 ---
-### [Cloud Infrastructure | Nvidia K8S | Software Dev Team](/pdf/LydiaLi_summer2018.pptx)
+### [Cloud Infrastructure | Nvidia K8S - Software Dev Team](/pdf/LydiaLi_summer2018.pptx)
 <img src="images/data_project.PNG?raw=true"/>
 <br>
 
