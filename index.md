@@ -14,7 +14,7 @@
 <br>
 
 ---
-### [Cloud Infrastructure | Nvidia K8S | Software Development Team](/pdf/LydiaLi_summer2018.pptx)
+### [Cloud Infrastructure | Nvidia K8S | Software Dev Team](/pdf/LydiaLi_summer2018.pptx)
 <img src="images/data_project.PNG?raw=true"/>
 <br>
 
