@@ -1,30 +1,14 @@
 title: Lydia Li # your name (or website title) here
 logo: "/images/circle-cropped.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Hi there! I am a business-savvy <mark>engineer</mark> and designer.
-  a:hover {
-  background-color: yellow;
-  }
   <br><br>
-  Fascinated by the intersection between design and technology, I specialize in applications that are powered by data and AI. Through human-centered design and product thinking, I love engaging in purpose-driven work that produces practical results and business values.
+  - A <b>Design Research</b> student with <b>User Experience Design</b> & <b>Electrical Engineering</b> background
+  <br><br>
+  - Previously @ <a href="https://www.microsoft.com/en-ca">Microsoft</a>, <a href="https://www.nvidia.com/en-us/">Nvidia</a>, <a href="https://www.ford.ca/">Ford</a>, and <a href="https://www.sunlife.ca/en/">Sun Life</a>
+  <br><br>
+  - Currently participating in the <b>Master of Information</b> program at the University of Toronto
   <br><br>
   <a href="https://www.linkedin.com/in/lydialiuw/">View My LinkedIn Profile</a>
-  <br><br>
-  <br><br>
-  <br><br>
-  <br><br>
-  <br><br>
-  <br><br>
-  <br><br>
-  <br><br>
-  <br><br>
-  <br><br>
-  <br><br>
-  <br><br>
-  <br><br>
-  <br><br>
-  <br><br>
-  <br><br>
   
 theme: jekyll-theme-minimal	
 google_analytics: UA-155132691-1 # your Google Analytics tracking ID here
