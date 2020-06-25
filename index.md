@@ -4,17 +4,17 @@
 
 ## WORK
 
-### [AI Community | Microsoft AI - Azure Business Group](/pdf/project.pdf)
+### [AI-Driven Analytics Platform | Nvidia Shield](/pdf/project.pdf)
 <img src="images/ml_project.PNG?raw=true"/>
 <br>
 
 ---
-### [Data Analytics | Nvidia Shield - Hardware R&D Team](/pdf/winter2020_work_term_repot.pdf)
+### [Community Engagement App | Microsoft AI](/pdf/winter2020_work_term_repot.pdf)
 <img src="images/ml_project.PNG?raw=true"/>
 <br>
 
 ---
-### [Cloud Infrastructure | Nvidia K8S - Software Dev Team](/pdf/LydiaLi_summer2018.pptx)
+### [Kubernetes IaaS Dashboard | Nvidia Cloud](/pdf/LydiaLi_summer2018.pptx)
 <img src="images/data_project.PNG?raw=true"/>
 <br>
 
