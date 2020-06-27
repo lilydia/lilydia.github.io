@@ -5,11 +5,11 @@
 
 
 ### [AI-Driven Stock Prediction | Python](http://example.com/)
-<br>
+
 ### [Yelp Customer Sentiment Analysis | R](http://example.com/)
-<br>
+
 ### [Amazon Product Recommender System | R](http://example.com/)
-<br>
+
 
 
 ---
