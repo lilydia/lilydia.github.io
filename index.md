@@ -2,13 +2,8 @@
 
 ---
 
-## WORK
+## UI/UX PROJECTS
 
-### [AI-Driven Analytics Platform | Nvidia Shield](http://example.com/)
-<img src="images/analytics.PNG?raw=true"/>
-<br>
-
----
 ### [Community Engagement App | Microsoft AI](/pdf/winter2020_work_term_repot.pdf)
 <img src="images/engagementApp.PNG?raw=true"/>
 <br>
@@ -20,13 +15,11 @@
 
 ---
 
-### IN PROGRESS...
+## DATA PROJECTS
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [AI-Driven Stock Prediction | Python](http://example.com/)
+- [Yelp Customer Sentiment Analysis | R](http://example.com/)
+- [Amazon Product Recommender System | R](http://example.com/)
 
 ---
 
