@@ -16,7 +16,7 @@
 
 ## UI/UX PROJECTS
 
-### [Community Engagement App | Microsoft AI](/pdf/winter2020_work_term_repot.pdf)
+### [Community Engagement App | Microsoft AI](/pdf/Community Engagement App - 1st draft.pdf)
 <img src="images/engagementApp.PNG?raw=true"/>
 <br>
 
