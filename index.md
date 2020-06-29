@@ -1,7 +1,7 @@
 # Human-Centered Design Portfolio
 
 ---
-## DATA PROJECTS
+## DATA/ML PROJECT
 
 
 ### [AI-Driven Stock Prediction | Python](/pdf/StealthWealthPoster.pdf)
@@ -14,7 +14,7 @@
 
 ---
 
-## UI/UX PROJECTS
+## UI/UX PROCESS
 
 ### [Community Engagement App | Microsoft AI](/pdf/engage.pdf)
 <img src="images/engagementApp.PNG?raw=true"/>
