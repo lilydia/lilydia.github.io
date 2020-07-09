@@ -8,7 +8,6 @@
 
 ### [Yelp Customer Sentiment Analysis | R](http://example.com/)
 
-### [Amazon Product Recommender System | R](http://example.com/)
 
 
 
@@ -16,21 +15,21 @@
 
 ## UI/UX PROCESS
 
-### [Community Engagement App | Microsoft AI](/pdf/engage.pdf)
-<img src="images/engagementApp.PNG?raw=true"/>
+### [Kubernetes IaaS Dashboard | Nvidia Cloud](/pdf/k8s.pdf)
+<img src="images/k8s.PNG?raw=true"/>
 <br>
 
 ---
-### [Kubernetes IaaS Dashboard | Nvidia Cloud](http://example.com/)
-<img src="images/k8s.PNG?raw=true"/>
+### [Community Engagement App | Microsoft AI](/pdf/engage.pdf)
+<img src="images/engagementApp.PNG?raw=true"/>
 <br>
 
 ---
 
 
 ### IN PROGRESS...
-- [Project 1 Title](http://example.com/)	
-- [Project 2 Title](http://example.com/)
+- [Product Recommender System](http://example.com/)	
+- [Qualitative Research Interviewing](http://example.com/)
 
 ---
 
