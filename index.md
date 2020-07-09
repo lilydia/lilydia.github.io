@@ -29,7 +29,7 @@
 
 ### IN PROGRESS...
 - [Product Recommender System](http://example.com/)	
-- [Qualitative Research Interviewing](http://example.com/)
+- [Qualitative Research Interviewing](/sample_page.md)
 
 ---
 
