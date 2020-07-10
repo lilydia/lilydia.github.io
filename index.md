@@ -21,7 +21,7 @@
 
 ---
 ### [(UI) Community Engagement App | Microsoft AI](/pdf/engage.pdf)
-<img src="images/engagementApp.PNG?raw=true"/>
+<img src="images/engagementApp_pic.PNG?raw=true"/>
 <br>
 
 ---
