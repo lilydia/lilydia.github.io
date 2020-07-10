@@ -4,7 +4,7 @@
 ## DATA/ML PROJECT
 
 
-### [AI-Driven Stock Prediction | Python](/pdf/StealthWealthPoster.pdf)
+### [ML-Powered Stock Prediction | Python](/pdf/StealthWealthPoster.pdf)
 
 ### [Yelp Customer Sentiment Analysis | R](http://example.com/)
 
