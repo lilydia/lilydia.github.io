@@ -15,12 +15,12 @@
 
 ## UI/UX PROCESS
 
-### [(UX) Kubernetes IaaS Dashboard | Nvidia Cloud](/pdf/k8s.pdf)
+### [(UX) Kubernetes IaaS Dashboard | Nvidia Cloud](/pdf/k8s_v1.pdf)
 <img src="images/k8s.PNG?raw=true"/>
 <br>
 
 ---
-### [(UI) Community Engagement App | Microsoft AI](/pdf/engage.pdf)
+### [(UI) Community Engagement App | Microsoft AI](/pdf/engage_v1.pdf)
 <img src="images/engagementApp_pic.PNG?raw=true"/>
 <br>
 
@@ -28,8 +28,8 @@
 
 
 ### IN PROGRESS...
-- [Product Recommender System](http://example.com/)	
 - [Qualitative Research Interviewing](/sample_page.md)
+- [Product Recommender System](http://example.com/)	
 
 ---
 
