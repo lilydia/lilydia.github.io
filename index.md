@@ -6,7 +6,7 @@
 
 ### [(ML) Capstone Research Project | Python](/pdf/StealthWealthPoster.pdf)
 
-### [(AI) Yelp Customer Sentiment Analysis | R](http://example.com/)
+### [(AI) Amazon Customer Sentiment Analysis | Python](https://github.com/lilydia/Amazon_Product_Reviews_Analysis/)
 
 
 
@@ -29,7 +29,7 @@
 
 ### IN PROGRESS...
 - [Qualitative Research Interviewing](/sample_page.md)
-- [Product Recommender System](http://example.com/)	
+- [Product Recommender System](/sample_page.md)	
 
 ---
 
