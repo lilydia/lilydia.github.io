@@ -40,8 +40,7 @@
 
 
 ### IN PROGRESS...
-- [Qualitative Research Interviewing](/sample_page.md)
-- [Product Recommender System](/sample_page.md)	
+- [Infromation System Redesign](/sample_page.md)
 
 ---
 
