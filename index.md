@@ -25,7 +25,7 @@
 
 ---
 
-## UI/UX 
+## UI/UX Experience
 
 ### [(UX) Kubernetes IaaS Dashboard | Nvidia Cloud](/pdf/k8s_v1.pdf)
 <img src="images/k8s.PNG?raw=true"/>
