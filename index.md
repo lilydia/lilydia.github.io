@@ -18,7 +18,7 @@
 
 ### [Image Classification | Ray Tune Hyperparameter Tuning](https://github.com/lilydia/Image-Classfication-Using-RayTune)
 
-### [Natural Language Processing | Amazon Reviews Sentiments](https://github.com/lilydia/Amazon_Product_Reviews_Analysis/)
+### [Natural Language Processing | Customer Satisfication Evaluation](https://github.com/lilydia/Amazon_Product_Reviews_Analysis/)
 
 
 
