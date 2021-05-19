@@ -4,28 +4,28 @@
 ## Data-centric Research
 
 
-### [Restaurant Operation Assessment using Yelp Data | Python](https://github.com/lilydia/Restaurant-Operation-Assessment-Using-Yelp-APIs)
+### [Yelp Data Analytics | Restaurant Disruptions](https://github.com/lilydia/Restaurant-Operation-Assessment-Using-Yelp-APIs)
 
-### [Job Market Monitoring using LinkedIn Data | Python](https://github.com/lilydia/py-linkedin-jobs-scraper)
-
-
-
----
-## ML/AI Explorations
-
-
-### [Time Series Forecasting | Python](/pdf/StealthWealthPoster.pdf)
-
-### [Image Classification | Python](https://github.com/lilydia/Image-Classfication-Using-RayTune)
-
-### [Natural Language Processing | Python](https://github.com/lilydia/Amazon_Product_Reviews_Analysis/)
-
+### [LinkedIn Web Scrape | Job Market Health](https://github.com/lilydia/py-linkedin-jobs-scraper)
 
 
 
 ---
+## ML/AI Exploration
 
-## UI/UX Applications
+
+### [Time Series Forecasting | Stock Predictions](/pdf/StealthWealthPoster.pdf)
+
+### [Image Classification | Ray Tune Hyperparameter Tuning](https://github.com/lilydia/Image-Classfication-Using-RayTune)
+
+### [Natural Language Processing | Amazon Reviews Sentiments](https://github.com/lilydia/Amazon_Product_Reviews_Analysis/)
+
+
+
+
+---
+
+## UI/UX Application
 
 ### [(UX) Kubernetes IaaS Dashboard | Nvidia Cloud](/pdf/k8s_v1.pdf)
 <img src="images/k8s.PNG?raw=true"/>
